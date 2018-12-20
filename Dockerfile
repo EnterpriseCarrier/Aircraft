@@ -6,7 +6,6 @@ RUN apt-get update && apt-get upgrade -y && apt-get clean
 WORKDIR /
 RUN mkdir -p /EnterpriseCarrier/FlightDeck/Aircraft
 COPY applications/ /EnterpriseCarrier/FlightDeck/Aircraft/applications/
-COPY build/ /EnterpriseCarrier/FlightDeck/Aircraft/build/
 COPY framework/ /EnterpriseCarrier/FlightDeck/Aircraft/framework/
 COPY gradle/ /EnterpriseCarrier/FlightDeck/Aircraft/gradle/
 COPY hot-deploy/ /EnterpriseCarrier/FlightDeck/Aircraft/hot-deploy/
