@@ -21,8 +21,8 @@ under the License.
 
 <div class="footer">
   <p align="center">
-    <p>Copyright (c) 2001-${nowTimestamp?string("yyyy")} The Apache Software Foundation - <a href="http://www.apache.org" target="_blank">www.apache.org</a></p>
-    <p>Powered by <a href="http://ofbiz.apache.org" target="_blank">Apache OFBiz</a></p>
+    <p>Copyright (c) 2018-${nowTimestamp?string("yyyy")}</p>
+    <p>Powered by <a href="http://www.enterprisecarrier.com" target="_blank">Enterprise Carrier</a></p>
   </p>
   <#if layoutSettings.VT_FTR_JAVASCRIPT?has_content>
     <#list layoutSettings.VT_FTR_JAVASCRIPT as javaScript>

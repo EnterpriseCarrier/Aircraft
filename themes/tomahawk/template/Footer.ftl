@@ -22,12 +22,12 @@ under the License.
 <div id="footer">
   <ul>
     <li>
-      ${uiLabelMap.CommonCopyright} (c) 2001-${nowTimestamp?string("yyyy")} The Apache Software Foundation - <a href="http://www.apache.org" target="_blank">www.apache.org</a><br/>
-      ${uiLabelMap.CommonPoweredBy} <a href="http://ofbiz.apache.org" target="_blank">Apache OFBiz</a> 
+      ${uiLabelMap.CommonCopyright} (c) 2018-${nowTimestamp?string("yyyy")}<br/>
+      ${uiLabelMap.CommonPoweredBy} <a href="http://www.enterprisecarrier.com" target="_blank">Enterprise Carrier</a>
        <#include "ofbizhome://runtime/SvnInfo.ftl" ignore_missing=true/>
        <#include "ofbizhome://runtime/GitInfo.ftl" ignore_missing=true/>
     </li>
-    <li class="opposed">${nowTimestamp?datetime?string.short} -
+    <li class="opposed">
   <a href="<@ofbizUrl>ListTimezones</@ofbizUrl>">${timeZone.getDisplayName(timeZone.useDaylightTime(), Static["java.util.TimeZone"].LONG, locale)}</a>
     </li>
   </ul>
