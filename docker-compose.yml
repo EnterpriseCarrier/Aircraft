@@ -1,7 +1,7 @@
+version: '3'
 services:
   aircraft:
-    build: .
+    image: hangarbaydev.azurecr.cn/aircraft:0.1
     ports:
-    - "80:8080"
-    - "8443:8443"
-version: '2.1'
+      - "80:8080"
+      - "8443:8443"

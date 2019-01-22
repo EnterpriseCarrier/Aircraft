@@ -18,12 +18,6 @@ ENV JAVA_OPTS -Xmx2G
 # Build and load demo data
 RUN ./gradlew cleanAll loadDefault
 
-# For passing in entity engine config - maybe replace with copy?
-VOLUME framework/entity/config/
-
-# For Derby Database
-VOLUME runtime/data
-
 EXPOSE 8080 8443
 
 # todo switch to the user for process execution
