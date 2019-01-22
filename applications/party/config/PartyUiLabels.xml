@@ -4739,22 +4739,22 @@
     </property>
     <property key="PartyCompanyName">
         <value xml:lang="ar">أوفبيز: مدير الطرف</value>
-        <value xml:lang="de">OFBiz: Akteur Manager</value>
-        <value xml:lang="en">OFBiz: Party Manager</value>
-        <value xml:lang="es">OFBiz: Gestión de participantes</value>
+        <value xml:lang="de">Akteur Manager</value>
+        <value xml:lang="en">Party Manager</value>
+        <value xml:lang="es">Gestión de participantes</value>
         <value xml:lang="fr">OFBiz : Gestionnaire d'acteur</value>
-        <value xml:lang="hi-IN">OFBiz: पार्टी प्रबंधक</value>
-        <value xml:lang="it">OFBiz: Gestione soggetti</value>
-        <value xml:lang="ja">OFBiz: 取引先管理</value>
-        <value xml:lang="nl">OFBiz: Relatie Manager</value>
-        <value xml:lang="pt-BR">OFBiz: Gestão de participantes</value>
+        <value xml:lang="hi-IN">पार्टी प्रबंधक</value>
+        <value xml:lang="it">Gestione soggetti</value>
+        <value xml:lang="ja">取引先管理</value>
+        <value xml:lang="nl">Relatie Manager</value>
+        <value xml:lang="pt-BR">Gestão de participantes</value>
         <value xml:lang="pt-PT">OFBiz:Grupo de Gestão</value>
-        <value xml:lang="ro">OFBiz: Gestiune Subiecti</value>
-        <value xml:lang="ru">OFBiz: Управление участниками</value>
-        <value xml:lang="th">OFBiz: การจัดการกลุ่มผู้ใช้</value>
+        <value xml:lang="ro">Gestiune Subiecti</value>
+        <value xml:lang="ru">Управление участниками</value>
+        <value xml:lang="th">การจัดการกลุ่มผู้ใช้</value>
         <value xml:lang="vi">vCloudBusines: Quản lý Tác nhân (Cá nhân/Tổ chức)</value>
-        <value xml:lang="zh">OFBiz: 会员管理程序</value>
-        <value xml:lang="zh-TW">OFBiz: 團體管理</value>
+        <value xml:lang="zh">会员管理程序</value>
+        <value xml:lang="zh-TW">團體管理</value>
     </property>
     <property key="PartyCompanyNameMissingError">
         <value xml:lang="ar">إسم الشركة مفقود</value>

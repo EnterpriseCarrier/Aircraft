@@ -27,11 +27,11 @@
         <value xml:lang="zh-TW">Eclipse BIRT應用程式</value>
     </property>
     <property key="BirtCompanyName">
-        <value xml:lang="en">OFBiz: Eclipse BIRT</value>
-        <value xml:lang="ja">OFBiz: Eclipse BIRT</value>
+        <value xml:lang="en">Eclipse BIRT</value>
+        <value xml:lang="ja">Eclipse BIRT</value>
         <value xml:lang="th">OFBiz : Eclipse BIRT</value>
-        <value xml:lang="zh">OFBiz: Eclipse BIRT</value>
-        <value xml:lang="zh-TW">OFBiz: Eclipse BIRT</value>
+        <value xml:lang="zh">Eclipse BIRT</value>
+        <value xml:lang="zh-TW">Eclipse BIRT</value>
     </property>
     <property key="BirtCompanySubtitle">
         <value xml:lang="en">Part of the Apache OFBiz Family of Open Source Software</value>

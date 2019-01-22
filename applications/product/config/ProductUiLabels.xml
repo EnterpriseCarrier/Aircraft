@@ -114,19 +114,19 @@
         <value xml:lang="zh">分类</value>
     </property>
     <property key="FacilityCompanyName">
-        <value xml:lang="de">OFBiz: Anlagen Verwaltung</value>
-        <value xml:lang="en">OFBiz: Facility Manager</value>
-        <value xml:lang="es">OFBiz: Administrador de Almacén</value>
-        <value xml:lang="fr">OFBiz: Gestion de stock</value>
-        <value xml:lang="it">OFBiz: Gestione stabilimenti</value>
-        <value xml:lang="ja">OFBiz: 拠点管理</value>
-        <value xml:lang="nl">OFBiz: Faciliteit Manager</value>
-        <value xml:lang="ro">OFBiz: Gestiune Compartimente</value>
-        <value xml:lang="ru">OFBiz: Управление объектами</value>
-        <value xml:lang="th">OFBiz: การจัดการคลังสินค้า</value>
-        <value xml:lang="vi">OFBiz: Quản trị Chi nhánh / Cơ sở</value>
-        <value xml:lang="zh">OFBiz：场所管理程序</value>
-        <value xml:lang="zh-TW">OFBiz:場所管理程式</value>
+        <value xml:lang="de">Anlagen Verwaltung</value>
+        <value xml:lang="en">Facility Manager</value>
+        <value xml:lang="es">Administrador de Almacén</value>
+        <value xml:lang="fr">Gestion de stock</value>
+        <value xml:lang="it">Gestione stabilimenti</value>
+        <value xml:lang="ja">拠点管理</value>
+        <value xml:lang="nl">Faciliteit Manager</value>
+        <value xml:lang="ro">Gestiune Compartimente</value>
+        <value xml:lang="ru">Управление объектами</value>
+        <value xml:lang="th">การจัดการคลังสินค้า</value>
+        <value xml:lang="vi">Quản trị Chi nhánh / Cơ sở</value>
+        <value xml:lang="zh">场所管理程序</value>
+        <value xml:lang="zh-TW">場所管理程式</value>
     </property>
     <property key="FacilityCompanySubtitle">
         <value xml:lang="de">Teil der Apache OFBiz Familie von Open Source Software</value>

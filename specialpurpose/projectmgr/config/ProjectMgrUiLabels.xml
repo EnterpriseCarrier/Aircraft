@@ -1137,16 +1137,16 @@
         <value xml:lang="zh-TW">公司</value>
     </property>
     <property key="ProjectMgrCompanyName">
-        <value xml:lang="de">OFBiz: Projekt</value>
-        <value xml:lang="en">OFBiz: Project</value>
+        <value xml:lang="de">Projekt</value>
+        <value xml:lang="en">Project</value>
         <value xml:lang="fr">OFBiz : projet</value>
-        <value xml:lang="it">OFBiz: Progetti</value>
-        <value xml:lang="ja">OFBiz: プロジェクト</value>
-        <value xml:lang="nl">OfBiz: Project Mgt</value>
-        <value xml:lang="th">OFBiz: โปรเจค</value>
-        <value xml:lang="vi">OFBiz: Dự án vCloudBusiness</value>
-        <value xml:lang="zh">OFBIZ: 项目</value>
-        <value xml:lang="zh-TW">OFBIZ: 專案</value>
+        <value xml:lang="it">Progetti</value>
+        <value xml:lang="ja">プロジェクト</value>
+        <value xml:lang="nl">Project Mgt</value>
+        <value xml:lang="th">โปรเจค</value>
+        <value xml:lang="vi">Dự án vCloudBusiness</value>
+        <value xml:lang="zh">项目</value>
+        <value xml:lang="zh-TW">專案</value>
     </property>
     <property key="ProjectMgrCompanySubtitle">
         <value xml:lang="de">Projekt</value>

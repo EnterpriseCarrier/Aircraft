@@ -3074,21 +3074,21 @@
         <value xml:lang="zh-TW">你可以在這裡增加其他逗號分隔的電子郵件位址,這些電子郵件位址僅用於當前訂單</value>
     </property>
     <property key="OrderCompanyName">
-        <value xml:lang="de">OFBiz: Auftragsverwaltung</value>
-        <value xml:lang="en">OFBiz: Order Manager</value>
-        <value xml:lang="es">OFBiz: Gestión de pedidos</value>
+        <value xml:lang="de">Auftragsverwaltung</value>
+        <value xml:lang="en">Order Manager</value>
+        <value xml:lang="es">Gestión de pedidos</value>
         <value xml:lang="fr">OFBiz : Gestion commerciale</value>
-        <value xml:lang="it">OFBiz: Gestione ordini</value>
-        <value xml:lang="ja">OFBiz: 注文管理</value>
-        <value xml:lang="nl">OFBiz: Order Manager</value>
-        <value xml:lang="pt-BR">OFBiz: Gestão de Pedidos</value>
-        <value xml:lang="ro">OFBiz: Gestiune Comanda </value>
-        <value xml:lang="ru">OFBiz: Управление заказами</value>
-        <value xml:lang="th">OFBiz: การจัดการรายการสั่งซื้อสินค้าสินค้า</value>
-        <value xml:lang="vi">OFBiz: Quản lý đặt hàng</value>
-        <value xml:lang="zh">OFBiz: 订单管理</value>
-        <value xml:lang="zh-CN">OFBiz: 订单管理</value>
-        <value xml:lang="zh-TW">OFBiz: 訂單管理</value>
+        <value xml:lang="it">Gestione ordini</value>
+        <value xml:lang="ja">注文管理</value>
+        <value xml:lang="nl">Order Manager</value>
+        <value xml:lang="pt-BR">Gestão de Pedidos</value>
+        <value xml:lang="ro">Gestiune Comanda </value>
+        <value xml:lang="ru">Управление заказами</value>
+        <value xml:lang="th">การจัดการรายการสั่งซื้อสินค้าสินค้า</value>
+        <value xml:lang="vi">Quản lý đặt hàng</value>
+        <value xml:lang="zh">订单管理</value>
+        <value xml:lang="zh-CN">订单管理</value>
+        <value xml:lang="zh-TW">訂單管理</value>
     </property>
     <property key="OrderCompanySubtitle">
         <value xml:lang="ar">جزء من عائلة أوفبيز للتطبيقات الحرة للتسيير</value>

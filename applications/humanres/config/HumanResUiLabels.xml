@@ -1133,15 +1133,15 @@
         <value xml:lang="zh-TW">預算專案識別</value>
     </property>
     <property key="HumanResCompanyName">
-        <value xml:lang="en">OFBiz: Human Resources Manager</value>
-        <value xml:lang="fr">OFBiz : gestion de ressources humaines</value>
-        <value xml:lang="it">OFBiz: Gestione Risorse Umane</value>
-        <value xml:lang="ja">OFBiz: 人事管理</value>
-        <value xml:lang="pt-BR">OFBiz: Gestão de recursos humanos</value>
-        <value xml:lang="th">OFBiz: การจัดการบุคคล</value>
-        <value xml:lang="vi">OFBiz: Ứng dụng quản trị Nhân sự</value>
-        <value xml:lang="zh">OFBiz: 人力资源管理</value>
-        <value xml:lang="zh-TW">OFBiz: 人力資源管理</value>
+        <value xml:lang="en">Human Resources Manager</value>
+        <value xml:lang="fr">gestion de ressources humaines</value>
+        <value xml:lang="it">Gestione Risorse Umane</value>
+        <value xml:lang="ja">人事管理</value>
+        <value xml:lang="pt-BR">Gestão de recursos humanos</value>
+        <value xml:lang="th">การจัดการบุคคล</value>
+        <value xml:lang="vi">Ứng dụng quản trị Nhân sự</value>
+        <value xml:lang="zh">人力资源管理</value>
+        <value xml:lang="zh-TW">人力資源管理</value>
     </property>
     <property key="HumanResCompanySubtitle">
         <value xml:lang="en">Part of the Apache OFBiz Family of Open Source Software</value>

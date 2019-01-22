@@ -96,15 +96,15 @@
         <value xml:lang="zh-TW">日曆資料項目(僅用於測試)</value>
     </property>
     <property key="ExampleCompanyName">
-        <value xml:lang="en">OFBiz: Example</value>
+        <value xml:lang="en">Example</value>
         <value xml:lang="fr">OFBiz : Exemple</value>
-        <value xml:lang="it">OFBiz: Esempi</value>
-        <value xml:lang="ja">OFBiz: サンプル</value>
-        <value xml:lang="ro">OFBiz: Exemple</value>
-        <value xml:lang="ru">OFBiz: Пример</value>
-        <value xml:lang="th">OFBiz: ตัวอย่าง</value>
-        <value xml:lang="zh">OFBiz: 样例</value>
-        <value xml:lang="zh-TW">OFBiz: 範例</value>
+        <value xml:lang="it">Esempi</value>
+        <value xml:lang="ja">サンプル</value>
+        <value xml:lang="ro">Exemple</value>
+        <value xml:lang="ru">Пример</value>
+        <value xml:lang="th">ตัวอย่าง</value>
+        <value xml:lang="zh">样例</value>
+        <value xml:lang="zh-TW">範例</value>
     </property>
     <property key="ExampleCompanySubtitle">
     <!--value xml:lang="ar">جزء من عائلة أوفبيز للبرمجيات الحرة</value-->

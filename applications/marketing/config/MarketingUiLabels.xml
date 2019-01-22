@@ -386,19 +386,19 @@
         <value xml:lang="zh-TW">活動摘要</value>
     </property>
     <property key="MarketingCompanyName">
-        <value xml:lang="de">OFBiz: Vermarktungsmanager</value>
-        <value xml:lang="en">OFBiz: Marketing Manager</value>
-        <value xml:lang="es">OFBiz: Gestión de Marketing</value>
-        <value xml:lang="fr">OFBiz: Gestion du Marketing</value>
-        <value xml:lang="it">OFBiz: Gestione vendite</value>
-        <value xml:lang="ja">OFBiz: マーケティング管理</value>
-        <value xml:lang="nl">OFBiz: Marketing Manager</value>
-        <value xml:lang="pt-BR">OFBiz: Gerente de Marketing</value>
-        <value xml:lang="ro">OFBiz: Gestione Vendite</value>
-        <value xml:lang="th">OFBiz: การจัดการทางการตลาด</value>
-        <value xml:lang="vi">OFBiz: Quản trị Tiếp thị</value>
-        <value xml:lang="zh">OFBiz: 市场宣传管理</value>
-        <value xml:lang="zh-TW">OFBiz: 行銷管理</value>
+        <value xml:lang="de">Vermarktungsmanager</value>
+        <value xml:lang="en">Marketing Manager</value>
+        <value xml:lang="es">Gestión de Marketing</value>
+        <value xml:lang="fr">Gestion du Marketing</value>
+        <value xml:lang="it">Gestione vendite</value>
+        <value xml:lang="ja">マーケティング管理</value>
+        <value xml:lang="nl">Marketing Manager</value>
+        <value xml:lang="pt-BR">Gerente de Marketing</value>
+        <value xml:lang="ro">Gestione Vendite</value>
+        <value xml:lang="th">การจัดการทางการตลาด</value>
+        <value xml:lang="vi">Quản trị Tiếp thị</value>
+        <value xml:lang="zh">市场宣传管理</value>
+        <value xml:lang="zh-TW">行銷管理</value>
     </property>
     <property key="MarketingCompanySubtitle">
         <value xml:lang="ar">جزء من عائلة أوفبيز للتطبيقات الحرة للتسيير</value>

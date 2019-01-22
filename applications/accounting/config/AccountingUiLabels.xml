@@ -1174,17 +1174,17 @@
     </property>
     <property key="AccountingApCompanyName">
         <value xml:lang="ar">أوفبيز: مدير ذمم دائنة</value>
-        <value xml:lang="de">OFBiz: Kreditorenbuchhaltung</value>
-        <value xml:lang="en">OFBiz: AP Manager</value>
-        <value xml:lang="fr">OFBiz: gestion des comptes fourn.</value>
-        <value xml:lang="hi-IN">OFBiz: खाता देय प्रबंधक</value>
-        <value xml:lang="it">OFBiz: Gestione conti debitori</value>
-        <value xml:lang="ja">OFBiz: 買掛管理</value>
-        <value xml:lang="nl">OFBiz: Credit Manager</value>
-        <value xml:lang="pt">OFBiz: Gestão de Contas a Pagar</value>
-        <value xml:lang="vi">OFBiz: Quản trị Phải Trả (AP)</value>
-        <value xml:lang="zh">OFBiz: 应付账户管理</value>
-        <value xml:lang="zh-TW">OFBiz: 應付帳款管理</value>
+        <value xml:lang="de">Kreditorenbuchhaltung</value>
+        <value xml:lang="en">AP Manager</value>
+        <value xml:lang="fr">gestion des comptes fourn.</value>
+        <value xml:lang="hi-IN">खाता देय प्रबंधक</value>
+        <value xml:lang="it">Gestione conti debitori</value>
+        <value xml:lang="ja">買掛管理</value>
+        <value xml:lang="nl">Credit Manager</value>
+        <value xml:lang="pt">Gestão de Contas a Pagar</value>
+        <value xml:lang="vi">Quản trị Phải Trả (AP)</value>
+        <value xml:lang="zh">应付账户管理</value>
+        <value xml:lang="zh-TW">應付帳款管理</value>
     </property>
     <property key="AccountingApManager">
         <value xml:lang="ar">مدير ذمم دائنة</value>
@@ -1510,17 +1510,17 @@
     </property>
     <property key="AccountingArCompanyName">
         <value xml:lang="ar">أوفبيز: مدير الذمم المدينة</value>
-        <value xml:lang="de">OFBiz: Debitorenbuchhaltung</value>
-        <value xml:lang="en">OFBiz: AR Manager</value>
-        <value xml:lang="fr">OFBiz: gestion des comptes clients</value>
-        <value xml:lang="hi-IN">OFBiz: खाता प्राप्य प्रबंधक</value>
-        <value xml:lang="it">OFBiz: Gestione conti creditori</value>
-        <value xml:lang="ja">OFBiz: 売掛管理</value>
-        <value xml:lang="nl">OFBiz: Debiteuren Manager</value>
-        <value xml:lang="pt">OFBiz: Gestão de contas a receber</value>
-        <value xml:lang="vi">OFBiz: Quản trị Phải Thu (AR)</value>
-        <value xml:lang="zh">OFBiz: 应收账户管理</value>
-        <value xml:lang="zh-TW">OFBiz: 應收帳款管理</value>
+        <value xml:lang="de">Debitorenbuchhaltung</value>
+        <value xml:lang="en">AR Manager</value>
+        <value xml:lang="fr">gestion des comptes clients</value>
+        <value xml:lang="hi-IN">खाता प्राप्य प्रबंधक</value>
+        <value xml:lang="it">Gestione conti creditori</value>
+        <value xml:lang="ja">売掛管理</value>
+        <value xml:lang="nl">Debiteuren Manager</value>
+        <value xml:lang="pt">Gestão de contas a receber</value>
+        <value xml:lang="vi">Quản trị Phải Thu (AR)</value>
+        <value xml:lang="zh">应收账户管理</value>
+        <value xml:lang="zh-TW">應收帳款管理</value>
     </property>
     <property key="AccountingArManager">
         <value xml:lang="ar">مدير الذمم المدينة</value>
@@ -3206,22 +3206,22 @@
     </property>
     <property key="AccountingCompanyName">
         <value xml:lang="ar">أوفبيز: مسير المحاسبة</value>
-        <value xml:lang="de">OFBiz: Buchhaltung</value>
-        <value xml:lang="en">OFBiz: Accounting Manager</value>
-        <value xml:lang="es">OFBiz: Administrador de cuentas</value>
-        <value xml:lang="fr">OFBiz: Gestion comptable</value>
-        <value xml:lang="hi-IN">OFBiz: लेखा प्रबंधक</value>
-        <value xml:lang="it">OFBiz: Gestione contabilità</value>
-        <value xml:lang="ja">OFBiz: 会計管理</value>
-        <value xml:lang="nl">OFBiz: Boekhouding</value>
-        <value xml:lang="pt-BR">OFBiz: Gerente de Contas</value>
-        <value xml:lang="pt-PT">&gt;OFBiz: Gerente de Contas</value>
-        <value xml:lang="ro">OFBiz: Gestiune Contabila </value>
-        <value xml:lang="ru">OFBiz: Менеджер учета</value>
-        <value xml:lang="th">OFBiz: การจัดการบัญชี</value>
-        <value xml:lang="vi">OFBiz: Quản trị kế toán</value>
-        <value xml:lang="zh">OFBiz: 财务管理</value>
-        <value xml:lang="zh-TW">OFBiz: 會計管理</value>
+        <value xml:lang="de">Buchhaltung</value>
+        <value xml:lang="en">Accounting Manager</value>
+        <value xml:lang="es">Administrador de cuentas</value>
+        <value xml:lang="fr">Gestion comptable</value>
+        <value xml:lang="hi-IN">लेखा प्रबंधक</value>
+        <value xml:lang="it">Gestione contabilità</value>
+        <value xml:lang="ja">会計管理</value>
+        <value xml:lang="nl">Boekhouding</value>
+        <value xml:lang="pt-BR">Gerente de Contas</value>
+        <value xml:lang="pt-PT">&gt;Gerente de Contas</value>
+        <value xml:lang="ro">Gestiune Contabila </value>
+        <value xml:lang="ru">Менеджер учета</value>
+        <value xml:lang="th">การจัดการบัญชี</value>
+        <value xml:lang="vi">Quản trị kế toán</value>
+        <value xml:lang="zh">财务管理</value>
+        <value xml:lang="zh-TW">會計管理</value>
     </property>
     <property key="AccountingCompanyNameAccount">
         <value xml:lang="ar">اسم الشركة على الحساب</value>
