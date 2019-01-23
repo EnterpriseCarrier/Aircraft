@@ -2913,16 +2913,16 @@
         <value xml:lang="zh-TW">關閉日期</value>
     </property>
     <property key="SfaCompanyName">
-        <value xml:lang="de">OFBiz: Vertriebsmanager</value>
-        <value xml:lang="en">OFBiz: SFA Manager</value>
+        <value xml:lang="de">Vertriebsmanager</value>
+        <value xml:lang="en">SFA Manager</value>
         <value xml:lang="es">Gestor de fuerzas de ventas</value>
-        <value xml:lang="fr">OFBiz: gestion des ventes</value>
-        <value xml:lang="it">OFBiz: Gestione forze di vendita</value>
-        <value xml:lang="ja">OFBiz: 営業支援(SFA)管理</value>
-        <value xml:lang="pt-BR">OFBiz: gestor da equipe de vendas</value>
-        <value xml:lang="vi">OFBiz: Quản trị Chiến dịch tiếp thị</value>
-        <value xml:lang="zh">OFBiz: 销售管理程序</value>
-        <value xml:lang="zh-TW">OFBiz: 營業支援(SFA)管理</value>
+        <value xml:lang="fr">gestion des ventes</value>
+        <value xml:lang="it">Gestione forze di vendita</value>
+        <value xml:lang="ja">営業支援(SFA)管理</value>
+        <value xml:lang="pt-BR">gestor da equipe de vendas</value>
+        <value xml:lang="vi">Quản trị Chiến dịch tiếp thị</value>
+        <value xml:lang="zh">销售管理程序</value>
+        <value xml:lang="zh-TW">營業支援(SFA)管理</value>
     </property>
     <property key="SfaCompetitors">
         <value xml:lang="de">Wettbewerber &amp; Partner </value>
